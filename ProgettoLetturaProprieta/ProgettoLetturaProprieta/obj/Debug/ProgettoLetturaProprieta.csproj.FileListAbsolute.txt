@@ -1,0 +1,11 @@
+C:\Users\miche\source\repos\ProgettoLetturaProprieta\ProgettoLetturaProprieta\bin\Debug\ProgettoLetturaProprieta.exe.config
+C:\Users\miche\source\repos\ProgettoLetturaProprieta\ProgettoLetturaProprieta\bin\Debug\ProgettoLetturaProprieta.exe
+C:\Users\miche\source\repos\ProgettoLetturaProprieta\ProgettoLetturaProprieta\bin\Debug\ProgettoLetturaProprieta.pdb
+C:\Users\miche\source\repos\ProgettoLetturaProprieta\ProgettoLetturaProprieta\obj\Debug\ProgettoLetturaProprieta.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\ProgettoLetturaProprieta\ProgettoLetturaProprieta\obj\Debug\ProgettoLetturaProprieta.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\ProgettoLetturaProprieta\ProgettoLetturaProprieta\obj\Debug\ProgettoLetturaProprieta.Form1.resources
+C:\Users\miche\source\repos\ProgettoLetturaProprieta\ProgettoLetturaProprieta\obj\Debug\ProgettoLetturaProprieta.Properties.Resources.resources
+C:\Users\miche\source\repos\ProgettoLetturaProprieta\ProgettoLetturaProprieta\obj\Debug\ProgettoLetturaProprieta.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\ProgettoLetturaProprieta\ProgettoLetturaProprieta\obj\Debug\ProgettoLetturaProprieta.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\ProgettoLetturaProprieta\ProgettoLetturaProprieta\obj\Debug\ProgettoLetturaProprieta.exe
+C:\Users\miche\source\repos\ProgettoLetturaProprieta\ProgettoLetturaProprieta\obj\Debug\ProgettoLetturaProprieta.pdb
